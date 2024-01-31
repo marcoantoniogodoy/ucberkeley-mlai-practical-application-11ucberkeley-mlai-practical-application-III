@@ -1,4 +1,5 @@
-#IMPORTANT: When creating this repository, some unwanted unwanted characters were included on the name. Since making changes to the repository name would break the link shared, I decided to create a new repository with the correct name and reupload the data. Therefore, please use the following link instead:
+# PLEASE READ BEFORE PROCEDING
+When creating this repository, some unwanted unwanted characters were included on the name. Since making changes to the repository name would break the link shared, I decided to create a new repository with the correct name and reupload the data. Therefore, please use the following link instead:
 https://github.com/marcoantoniogodoy/ucberkeley-mlai-practical-application-III
 
 -------------------
